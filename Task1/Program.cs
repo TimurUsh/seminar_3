@@ -1,4 +1,4 @@
-﻿// 24. Найти кубы чисел от 1 до N
+﻿// 1. Найти кубы чисел от 1 до N
 
 Console.Clear();
 System.Console.WriteLine();
