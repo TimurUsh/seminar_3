@@ -1,4 +1,4 @@
-﻿// 25. Найти сумму чисел от 1 до А
+﻿// 2. Найти сумму чисел от 1 до А
 
 Console.Clear();
 System.Console.WriteLine();
